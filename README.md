@@ -2,10 +2,6 @@
 # ChitChatConnect - Anonymous AI-Moderated Video Chat
 
 <div align="center">
-  <img src="./chitchat.jpg" alt="ChitChatConnect Screenshot" width="800"/>
-</div>
-
-<div align="center">
 
 **A modern, real-time video and text chat application that connects users anonymously based on shared interests.**
 
