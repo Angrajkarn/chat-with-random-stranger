@@ -2,7 +2,7 @@
 # ChitChatConnect - Anonymous AI-Moderated Video Chat
 
 <div align="center">
-  <img src="./public/app-screenshot.png" alt="ChitChatConnect Screenshot" width="800"/>
+  <img src="./chitchat.jpg" alt="ChitChatConnect Screenshot" width="800"/>
 </div>
 
 <div align="center">
